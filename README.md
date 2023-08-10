@@ -341,3 +341,21 @@ Looking forward to your support in resolving this matter efficiently.
 Sincerely,
 [Your Name]
 [Your Employee ID] (if applicable)
+Subject: Immediate Resignation Letter
+
+Dear [HR Manager's Name],
+
+I am writing to inform you of my immediate resignation from my position at [Company Name]. My last working day will be today, [current date].
+
+I have thoroughly enjoyed my time at [Company Name] and appreciate the opportunities I have been given. However, due to personal circumstances, I need to relocate immediately, which necessitates my departure from the company.
+
+I understand the importance of a smooth transition and am more than willing to assist in any way possible during this transition period. Please let me know how I can best facilitate the handover of my responsibilities and any pending tasks.
+
+I want to express my gratitude to you and the entire team for the support and camaraderie I have experienced during my time here. I have learned valuable skills and gained insights that will undoubtedly benefit me in my future endeavors.
+
+Thank you again for the opportunity to be a part of [Company Name]. I wish the company continued success and hope our paths may cross again in the future.
+
+Sincerely,
+[Your Name]
+[Your Employee ID]
+[Your Contact Information]
